@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+/*---Inner Page->START*/
+.innerblack-rd {
+  clear: both;
+  display: table;
+  float: left;
+  max-width: 100%;
+  padding: 0;
+  width: 750px;
+}
+.innerpage-title {
+  background: rgb(48,177,213);
+  color: #ffffff;
+  font-family: pt sans;
+  font-size: 18px;
+  box-sizing: border-box;
+  font-weight: bold;
+  margin: 0;
+  max-width: 926px;
+  padding: 11px 2%;
+  text-align: left;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 100%;
+}
+.innerpage-gentext {
+  background: #ffffff none repeat scroll 0 0;
+  border: 1px solid #e6e6e6;
+  box-sizing: border-box;
+  color: #3c3c3c;
+  float: left;
+  font-family: "Open Sans",sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 18px;
+  margin: 0;
+  max-width: 100%;
+  padding: 2%;
+  text-align: justify;
+  text-decoration: none;
+  width: 100%;
+}
+.innerpage-gentext a {
+	color: #3c3c3c!important;
+}
